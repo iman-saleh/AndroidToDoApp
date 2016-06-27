@@ -6,3 +6,4 @@ This is a simple ToDo application. The application enables users to add, delete 
 
 The application persists the ToDo items in a file called todo.txt in the application's data directory.
 
+![alt tag](https://github.com/iman-saleh/AndroidToDoApp/blob/master/tododemo.gif)
